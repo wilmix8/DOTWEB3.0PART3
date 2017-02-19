@@ -81,3 +81,8 @@ JAW  is  used   for  mobile  apps  construction.
 h)  JWEB3  Advanced Business
 =================================
 JWEB3  is focused  on  interaction  with JSWORD.
+
+i)  JWEB3  Advanced Business(WAB)
+=================================
+JWEB3  is focused  on  interaction  with JSWORD  this   is wilmix  Advanced Business(WAB).
+This is to overtake competitors.
