@@ -1,4 +1,6 @@
 # JWEB3.0
+==========
+
 JWEB3 is about JWEBPart3. and JWEB3 Latest Technologies and P.L are WSON,JHSON,JOS, NSLASH, JAW, H@, CSHELL.
 
 JWEB3 is about JWEBPart3. and JWEB3 Latest Technologies and P.L are WSON,JHSON,JOS, NSLASH, JAW, H@, CSHELL.
@@ -86,3 +88,8 @@ i)  JWEB3  Advanced Business(WAB)
 =================================
 JWEB3  is focused  on  interaction  with JSWORD  this   is wilmix  Advanced Business(WAB).
 This is to overtake competitors.
+
+j) JWEB EMC AND EML
+=======================
+
+JWEB  EMC  AN  EML  is  focused on  Internal Advanced Business  DOTWEB interaction
