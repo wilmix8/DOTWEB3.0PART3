@@ -93,3 +93,7 @@ j) JWEB EMC AND EML
 =======================
 
 JWEB  EMC  AN  EML  is  focused on  Internal Advanced Business  DOTWEB interaction
+
+
+Note: Technology code: 5  ; 
+( 5  latest  technologies are most important  for  the  technical side)...
